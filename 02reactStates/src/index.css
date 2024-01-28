@@ -1,0 +1,12 @@
+.card{
+  display: flex;
+  flex-direction: column;
+  width: 30vw;
+}
+
+.first{
+  display: block;
+}
+.second{
+  display: inline-block;
+}

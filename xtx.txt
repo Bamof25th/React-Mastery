@@ -1,0 +1,37 @@
+1.it dosent update the main DOM tree 
+
+2.what does it it makes its own DOm tree which is called as Virtual DoM tree
+
+3.boath are very same but in the virtual DOM 
+
+4.but in Virtual DOM  whenever the change occur in virtual DOM then only the changes done are aplied 
+  without refereshing the DOM tree.
+
+5. So in a way it does not change the main dom tree but there is a way which uses Virtual DOM give a efficient user experiance . 
+
+6. Its a feature thatb makes thte website feel like 
+
+iTs a Javascript LIBRARY to maintain the Frontend
+
+IT is maintainable library to amke big apps
+
+7. create conmponents ,make Data if you need it , link the data and change data whenever you want , reacr will REACT jab bhi data change hoga.
+
+create-react-app - to use react
+
+but use vite for better exp
+
+
+{
+JSX = javascript XML
+
+<h1>{4+4}</h1>
+
+it willg give output as 
+
+8
+}
+
+background-color: transparent;
+    -webkit-backdrop-filter: blur(.5rem);
+    backdrop-filter: blur(.5rem);
